@@ -1,0 +1,9 @@
+{
+  "name": "recap",
+  "description": "Quickly recover previous session context after /clear. Reads last 3 Q&As from recent sessions and summarizes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "juniqlim"
+  },
+  "keywords": ["recap", "context-recovery", "session", "clear"]
+}
